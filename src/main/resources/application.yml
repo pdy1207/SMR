@@ -17,3 +17,6 @@ mybatis:
     default-fetch-size: 500
   mapper-locations:
   - classpath:mybatis/mapper/*.xml
+  
+server:
+  port: 5000
